@@ -112,7 +112,9 @@ color: #404BBF;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
+.staff-list {
+    background-color: #FFFFFF
+}
 .title-staff {
     font-weight: 500;
     font-size: 20px;

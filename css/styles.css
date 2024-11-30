@@ -160,13 +160,14 @@ color: #404BBF;
 .footer-style {
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     color: #f4f4fd;}
 .footer-logo{ 
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
+    text-transform: uppercase;
     letter-spacing: 0.03em;
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;

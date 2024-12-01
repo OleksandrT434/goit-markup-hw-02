@@ -52,7 +52,7 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contact:hover
+.contact:hover,
 .contact:focus {
 color: #404BBF;
 }

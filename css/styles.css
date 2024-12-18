@@ -29,7 +29,10 @@ button {
     color: #4d5ae5;
 }
 .header-logo:active {color: #404BBF;}
-.nav-list {}
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
 .logo-style {
     color: #2e2f42;
 }
